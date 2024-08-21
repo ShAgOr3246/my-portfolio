@@ -1,0 +1,65 @@
+.body{
+    font-family: "Poppins", sans-serif;
+}
+
+.banner-container{
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+    height: 100vh;
+}
+
+.banner-column{
+    background:linear-gradient(to bottom, #2c90b1 0%, #9e6b84 100%);
+   
+}
+
+.navbar-color{
+    top: 0;
+    background-color: #262B37;
+    position: sticky;
+    z-index: 2;
+}
+
+.about-container{
+    background-image: linear-gradient(140deg, #EADEDB 0%, #BC70A4 50%, #BFD641 75%);
+}
+
+button{
+    padding: 10px;
+    width: 180px;
+    height: 50px;
+    background-color: transparent;
+    border: 1px solid #EADEDB;
+    border-radius: 15px;
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+button:hover{
+    background-color: #BC70A4;
+    font-weight: 700;
+    color: white;
+}
+
+.education-container{
+    background-color: #EEEEEE;
+}
+
+.bg-color{
+    color: #FB857F;
+}
+
+.circle{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: #9CDAF2;
+}
+
+.Projects-container{
+    background: linear-gradient(110.2deg, rgb(54, 197, 240) 8.2%, rgb(168, 138, 168) 92.4%);
+
+}
+
+.gallery-container{
+    background-color: lightgray;
+}
